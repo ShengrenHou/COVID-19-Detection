@@ -3,7 +3,7 @@
 ## *Description* 
 We created a coronarius virus decting model by using the CT data from [data_link](https://github.com/UCSD-AI4H/COVID-CT). We used the Reset network to extract CT's features and result show a state of art perfermance. 
 ## 细节描述
-我们用残差网络整了个新冠肺炎的模型，结果也不孬，大伙们凑合看吧
+基于残差网络和迁移学习，做了新冠肺炎检测模型，通过CT结果来判别是否为新冠肺炎患者。结果也不孬。
 ## *Structure*
 All the code are provide in the colab and we used *fastai* package g, which is a high level api of pytorch.
 ## 说明
