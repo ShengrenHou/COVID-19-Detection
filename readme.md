@@ -1,5 +1,5 @@
 # *Detecting COVID-19 by Resnet neural network*
-# *基于残差王网络的新冠肺炎识别*
+# *基于残差网络的新冠肺炎识别*
 ## *Description* 
 We created a coronarius virus decting model by using the CT data from [data_link](https://github.com/UCSD-AI4H/COVID-CT). We used the Reset network to extract CT's features and result show a state of art perfermance. 
 ## 细节描述
